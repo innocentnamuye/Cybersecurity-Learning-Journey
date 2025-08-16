@@ -17,7 +17,7 @@
       - I aim to branch into SCADA system security.  
       
  **3. What skills do I already have from mechatronics?**
-      - I have basic coding experience in C, C++, Arduino and foundational knowledge in Python programming, which is concurrently a work in progress in this course. During my tenure at Centurion Systems LTD, I gained experience in Programmable Logic Controllers (PLCs), the Siemens Symatic and Mitsubushi Melsec series.
+      - I have basic coding experience in C, C++, Arduino and foundational knowledge in Python programming, which is concurrently a work in progress in this course. In addition, I have experience in Programmable Logic Controllers (PLCs), the Siemens Symatic and Mitsubishi Melsec series to be precise.
       
  **4. What do I want to achieve in 6 weeks?**
      - I am looking for two things in particular:
@@ -29,4 +29,12 @@
 ✅ **Day 1 Deliverables:**
 - Complete the Welcome room
 - Push my Day 1 markdown to GitHub
+- Enrolled in Cisco NetAcad course: Cisco junior Cybersecurity Analyst course 
+- Completed Module 1: Cybersecurity Overview
+- Took notes on:
+     1. Importance of cybersecurity in industrial systems
+     2. Real-world examples of OT attacks (e.g., Stuxnet, Triton/TRISIS)
+     3. Roles and responsibilities in a SOC (Security Operations Center)
+
+
 
